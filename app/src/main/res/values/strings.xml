@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Currency Conversion</string>
+    <string name="topLabel">Currency Conversion</string>
+    <string name="numCurrency">Enter amount</string>
+    <string name="radioBtnOpt1">EUR</string>
+    <string name="radioBtnOpt2">MXN</string>
+    <string name="radioBtnOpt3">CND</string>
+    <string name="convertBtn">CONVERT</string>
+</resources>
